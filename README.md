@@ -26,3 +26,6 @@
 - **Breach Detection**: Identifies periods where the ratio falls below the specified threshold.
 - **Visualization**: Displays a real-time plot of the coverage ratio trend, threshold line, and breach points.
 - **Metrics**: Shows the average coverage ratio across the period.
+
+## Screenshots
+![output](output.png)
